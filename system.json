@@ -22,8 +22,8 @@
   "gridDistance": 1,
   "gridUnits": "m",
   "socket": true,
-  "manifest": "https://github.com/XenoMath/ep2e/releases/1.1.7/download/system.json",
-  "download": "https://github.com/XenoMath/ep2e/releases/1.1.7/download/latest.zip",
+  "manifest": "https://github.com/XenoMath/ep2e/releases/download/1.1.7/system.json",
+  "download": "https://github.com/XenoMath/ep2e/releases/download/1.1.7/latest.zip",
   "url": "https://github.com/XenoMath/ep2e",
   "languages": [
     {
